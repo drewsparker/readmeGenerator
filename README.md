@@ -10,7 +10,7 @@
   ![Alt Text](./test-video/README.md-Generator.gif)
   
   Here is a link to the 
-  [video](src="https://drive.google.com/file/d/1MpMq3uj1oBLQGVGRVC-7jZjSjQBY9rmN/preview).
+  [video](https://drive.google.com/file/d/1MpMq3uj1oBLQGVGRVC-7jZjSjQBY9rmN/preview).
 
   ## Table of Contents
   - [Installation](#installation)
