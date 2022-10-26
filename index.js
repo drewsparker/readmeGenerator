@@ -17,11 +17,6 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'List your table of contents:',
-        name: 'tableofcontents',
-    },
-    {
-        type: 'input',
         message: 'What are the installation instructions?',
         name: 'installation',
     },
@@ -50,6 +45,11 @@ const questions = [
         type: 'input',
         message: 'Common questions:',
         name: 'questions',
+    },
+    {
+        type: 'input',
+        message: 'Contact email address?',
+        name: 'email',
     },
 ]
 
